@@ -1,0 +1,51 @@
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\Bin\Release\ApplicationIcon.png
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\Bin\Release\Background.png
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\Bin\Release\CalculatorWP.dll
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\Bin\Release\CalculatorWP.pdb
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\Bin\Release\AppManifest.xaml
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\Bin\Release\CalculatorWP.xap
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\obj\Release\App.g.i.cs
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\obj\Release\MainPage.g.i.cs
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\obj\Release\CalculatorWP.g.resources
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\obj\Release\CalculatorWP.dll
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\obj\Release\CalculatorWP.pdb
+c:\users\houssem\documents\visual studio 2010\Projects\CalculatorWP\CalculatorWP\obj\Release\XapCacheFile.xml
+C:\Users\BepiApacz\Desktop\C#\CalculatorWP\Bin\Release\ApplicationIcon.png
+C:\Users\BepiApacz\Desktop\C#\CalculatorWP\Bin\Release\Background.png
+C:\Users\BepiApacz\Desktop\C#\CalculatorWP\Bin\Release\CalculatorWP.dll
+C:\Users\BepiApacz\Desktop\C#\CalculatorWP\Bin\Release\CalculatorWP.pdb
+C:\Users\BepiApacz\Desktop\C#\CalculatorWP\Bin\Release\AppManifest.xaml
+C:\Users\BepiApacz\Desktop\C#\CalculatorWP\obj\Release\App.g.cs
+C:\Users\BepiApacz\Desktop\C#\CalculatorWP\obj\Release\MainPage.g.cs
+C:\Users\BepiApacz\Desktop\C#\CalculatorWP\obj\Release\CalculatorWP.g.resources
+C:\Users\BepiApacz\Desktop\C#\CalculatorWP\obj\Release\CalculatorWP.dll
+C:\Users\BepiApacz\Desktop\C#\CalculatorWP\obj\Release\CalculatorWP.pdb
+C:\Users\BepiApacz\Desktop\C#\CalculatorWP\obj\Release\XapCacheFile.xml
+C:\Users\BepiApacz\Desktop\C#\CalculatorWP\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\BepiApacz\Desktop\C#\CalculatorWP\Bin\Release\CalculatorWP_Release_AnyCPU.xap
+C:\Users\BepiApacz\Desktop\••Kalkulator WP\CalculatorWP\Bin\Release\ApplicationIcon.png
+C:\Users\BepiApacz\Desktop\••Kalkulator WP\CalculatorWP\Bin\Release\Background.png
+C:\Users\BepiApacz\Desktop\••Kalkulator WP\CalculatorWP\Bin\Release\CalculatorWP.dll
+C:\Users\BepiApacz\Desktop\••Kalkulator WP\CalculatorWP\Bin\Release\CalculatorWP.pdb
+C:\Users\BepiApacz\Desktop\••Kalkulator WP\CalculatorWP\Bin\Release\AppManifest.xaml
+C:\Users\BepiApacz\Desktop\••Kalkulator WP\CalculatorWP\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\BepiApacz\Desktop\••Kalkulator WP\CalculatorWP\Bin\Release\CalculatorWP_Release_AnyCPU.xap
+C:\Users\BepiApacz\Desktop\••Kalkulator WP\CalculatorWP\obj\Release\App.g.cs
+C:\Users\BepiApacz\Desktop\••Kalkulator WP\CalculatorWP\obj\Release\MainPage.g.cs
+C:\Users\BepiApacz\Desktop\••Kalkulator WP\CalculatorWP\obj\Release\CalculatorWP.g.resources
+C:\Users\BepiApacz\Desktop\••Kalkulator WP\CalculatorWP\obj\Release\CalculatorWP.dll
+C:\Users\BepiApacz\Desktop\••Kalkulator WP\CalculatorWP\obj\Release\CalculatorWP.pdb
+C:\Users\BepiApacz\Desktop\••Kalkulator WP\CalculatorWP\obj\Release\XapCacheFile.xml
+C:\Users\BepiApacz\Desktop\Kalkulator\CalculatorWP\Bin\Release\ApplicationIcon.png
+C:\Users\BepiApacz\Desktop\Kalkulator\CalculatorWP\Bin\Release\Background.png
+C:\Users\BepiApacz\Desktop\Kalkulator\CalculatorWP\Bin\Release\CalculatorWP.dll
+C:\Users\BepiApacz\Desktop\Kalkulator\CalculatorWP\Bin\Release\CalculatorWP.pdb
+C:\Users\BepiApacz\Desktop\Kalkulator\CalculatorWP\Bin\Release\AppManifest.xaml
+C:\Users\BepiApacz\Desktop\Kalkulator\CalculatorWP\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\BepiApacz\Desktop\Kalkulator\CalculatorWP\Bin\Release\CalculatorWP_Release_AnyCPU.xap
+C:\Users\BepiApacz\Desktop\Kalkulator\CalculatorWP\obj\Release\App.g.cs
+C:\Users\BepiApacz\Desktop\Kalkulator\CalculatorWP\obj\Release\MainPage.g.cs
+C:\Users\BepiApacz\Desktop\Kalkulator\CalculatorWP\obj\Release\CalculatorWP.g.resources
+C:\Users\BepiApacz\Desktop\Kalkulator\CalculatorWP\obj\Release\CalculatorWP.dll
+C:\Users\BepiApacz\Desktop\Kalkulator\CalculatorWP\obj\Release\CalculatorWP.pdb
+C:\Users\BepiApacz\Desktop\Kalkulator\CalculatorWP\obj\Release\XapCacheFile.xml
